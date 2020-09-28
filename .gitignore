@@ -1,0 +1,7 @@
+build
+*~
+.idea
+.project
+.classpath
+/out/production
+
